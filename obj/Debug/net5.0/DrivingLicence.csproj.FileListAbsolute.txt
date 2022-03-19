@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\DrivingLicence.exe
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\DrivingLicence.deps.json
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\DrivingLicence.runtimeconfig.json
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\DrivingLicence.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\DrivingLicence.dll
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\ref\DrivingLicence.dll
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\bin\Debug\net5.0\DrivingLicence.pdb
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.dll
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\ref\DrivingLicence.dll
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.pdb
+C:\Users\Ivan\source\repos\InstagramAgeCheck\DrivingLicence\obj\Debug\net5.0\DrivingLicence.genruntimeconfig.cache
